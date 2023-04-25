@@ -1,4 +1,4 @@
-## Anime Manga Paradox
+## Anime Manga Paradox - [Link to live site](https://gracious-roentgen-044e5d.netlify.app/)
 
 Anime Manga Paradox (AMP!) was designed for the Anime and Manga loving community!
 
